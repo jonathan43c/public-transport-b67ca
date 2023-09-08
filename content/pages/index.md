@@ -13,7 +13,7 @@ sections:
       abajo para empezar!
 
     button:
-      label: Get Started
+      label: Comenzar
       url: /
       theme: outline
     image:
