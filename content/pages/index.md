@@ -26,7 +26,7 @@ sections:
     stats:
       - label: Planificación de Rutas Inteligentes
         value: 100%
-      - label: Five-star reviews
+      - label: Alertas de Tráfico Actualizadas
         value: 4M
       - label: Prefer our product
         value: 5 of 5
