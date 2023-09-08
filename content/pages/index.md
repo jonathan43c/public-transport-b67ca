@@ -25,7 +25,7 @@ sections:
     body: ''
     stats:
       - label: Planificación de Rutas Inteligentes
-        value: 100%
+        value: ''
       - label: Alertas de Tráfico Actualizadas
         value: ''
       - label: Experiencia Sin Publicidad
