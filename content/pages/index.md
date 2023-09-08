@@ -28,7 +28,7 @@ sections:
         value: 100%
       - label: Alertas de Tráfico Actualizadas
         value: 4M
-      - label: Prefer our product
+      - label: Experiencia Sin Publicidad
         value: 5 of 5
     theme: dark
 ---
