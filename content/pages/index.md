@@ -24,7 +24,7 @@ sections:
     heading: Servicios del aplicativo
     body: ''
     stats:
-      - label: Conversion rate
+      - label: Planificación de Rutas Inteligentes
         value: 100%
       - label: Five-star reviews
         value: 4M
