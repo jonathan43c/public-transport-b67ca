@@ -22,7 +22,7 @@ sections:
     theme: imgRight
   - type: stats
     heading: Servicios del aplicativo
-    body: Look at these amazing numbers!
+    body: ''
     stats:
       - label: Conversion rate
         value: 100%
