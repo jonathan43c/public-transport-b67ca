@@ -27,7 +27,7 @@ sections:
       - label: Planificación de Rutas Inteligentes
         value: 100%
       - label: Alertas de Tráfico Actualizadas
-        value: 4M
+        value: ''
       - label: Experiencia Sin Publicidad
         value: ''
     theme: dark
