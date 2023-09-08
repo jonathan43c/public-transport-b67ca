@@ -21,7 +21,7 @@ sections:
       alt: Stackbit Shapes
     theme: imgRight
   - type: stats
-    heading: Don't take our word for it
+    heading: Servicios del aplicativo
     body: Look at these amazing numbers!
     stats:
       - label: Conversion rate
